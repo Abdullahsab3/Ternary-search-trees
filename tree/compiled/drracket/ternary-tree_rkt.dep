@@ -1,0 +1,1 @@
+("7.8" racket ("5111609425333a5f3baf1cda9dd88070302c425a" . "afe6925abce60b6a0b1ea8afe09357bffc538849") (collects #"r6rs" #"lang" #"reader.rkt") (collects #"r6rs" #"main.rkt") (collects #"r6rs" #"private" #"prelims.rkt") (collects #"rnrs" #"base-6.rkt") (collects #"rnrs" #"io" #"simple-6.rkt") (collects #"rnrs" #"mutable-pairs-6.rkt") (collects #"srfi" #"%3a9.rkt"))
